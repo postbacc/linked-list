@@ -1,0 +1,13 @@
+{
+    "points": [
+        { "init" : 2 },
+        { "report" : 2 },
+        { "append data": 1 },
+        { "append node": 2 },
+        { "insert data": 1 },
+        { "insert node": 2 },
+        { "remove": 4 },
+        { "size": 3 },
+        { "contains": 3 }
+    ]
+}
