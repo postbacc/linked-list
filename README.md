@@ -1,4 +1,4 @@
-# HW 1: Linked Lists
+# Linked Lists
 
 In this assignment you'll implement a linked list data
 structure. We've covered the struct and associated operations in the
